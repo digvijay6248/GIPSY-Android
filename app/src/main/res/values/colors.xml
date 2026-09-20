@@ -1,0 +1,7 @@
+<resources>
+    <color name="gipsy_bg">#0B0F17</color>
+    <color name="gipsy_panel">#151B26</color>
+    <color name="gipsy_accent">#5B8CFF</color>
+    <color name="gipsy_text">#F2F5FA</color>
+    <color name="gipsy_muted">#8D99AA</color>
+</resources>
